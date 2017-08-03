@@ -1,0 +1,10 @@
+Remote path:
+git remote add origin git@192.168.1.195:/volume1/homes/linux/imx6_zhejiang_qiyang/01_QY_IMX6S/source/uboot/u-boot-2009.08/qiyang_uboot.git
+
+First push use:
+git push -u origin xxxxx
+
+After the first time use:
+git push origin xxxxx
+
+xxxxx represents the branch
